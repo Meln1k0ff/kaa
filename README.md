@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPavel-Melnikov%2Fkaa.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FPavel-Melnikov%2Fkaa?ref=badge_shield)
+
 Kaa open-source IoT platform
 ============================
 
@@ -11,3 +13,7 @@ For further information please visit
 * [Project wiki](http://docs.kaaproject.org/display/KAA/)
 * [Task tracker](http://jira.kaaproject.org/browse/KAA/)
 * [Google group](https://groups.google.com/forum/#!forum/kaaproject)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPavel-Melnikov%2Fkaa.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPavel-Melnikov%2Fkaa?ref=badge_large)
